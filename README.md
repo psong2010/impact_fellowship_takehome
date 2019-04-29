@@ -18,8 +18,4 @@ I cleaned the data using the Pandas library and queried the database using SQL q
 
 ### Prerequisites
 
-Jupyter Notebook
-Python
-Pandas
-SQLAlchemy
-MySQL
+Jupyter Notebook, Python, Pandas, SQLAlchemy, MySQL
