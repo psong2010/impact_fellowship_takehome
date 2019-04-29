@@ -1,8 +1,10 @@
-## Take-home Data Exercise from the Impact Fellowship
+# Take-home Data Exercise from the Impact Fellowship
 
 This project was completed as a part of the application process for the Education Pioneers Data Impact Fellowship: https://www.educationpioneers.org/what-we-do/education-pioneers-fellowships/impact-fellowship
 
-# I cleaned the data using the Pandas library and queried the database using SQL query languange. I answered the following questions:
+I cleaned the data using the Pandas library and queried the database using SQL query languange. 
+
+# I answered the following questions:
 
 -- How did the pilot school 5th graders’ ELA mean scores compare to the non-pilot 5th graders in 2017 (2016 - 2017 school year)? 
 
